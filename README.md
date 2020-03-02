@@ -1,0 +1,2 @@
+# SpringBoot_MyBatis_zhujie
+这是使用了SpringBoot使用注解的方法整合mybatis，实现了对数据库基本的增删改查功能。
